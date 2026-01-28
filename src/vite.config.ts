@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "/barksinegutterserials.io",
   build: {
     minify: false,
     sourcemap: false,
